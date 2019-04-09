@@ -97,3 +97,12 @@ button:hover {
   font-family: monospace;
   margin: 3px;
 }
+
+.input-image {
+  border-radius: 5px;
+  height: 2rem;
+  width: 60%;
+  font-size: 18px;
+  font-family: monospace;
+  margin: 3px;
+}
